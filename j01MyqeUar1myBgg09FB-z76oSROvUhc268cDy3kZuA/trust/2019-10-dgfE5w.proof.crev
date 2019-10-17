@@ -1,0 +1,17 @@
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-10-17T18:02:26.479113603+07:00"
+from:
+  id-type: crev
+  id: j01MyqeUar1myBgg09FB-z76oSROvUhc268cDy3kZuA
+  url: "https://github.com/zerosign/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: the ones who creates cargo-crev
+-----BEGIN CREV TRUST SIGNATURE-----
+I_0uI784okqAMC3vU4_KiKhQ9EPpP_Yx7mrgpzDDsYsSTiODgJJomCFUaeuSjDWjqTjx5WU23MNgTAYbd7LLAg
+-----END CREV TRUST-----
+
